@@ -13,6 +13,7 @@ A **lightweight and user-friendly** To-Do List web app to help you stay organize
 
 🔹 **Frontend:** HTML, CSS, JavaScript  
 🔹 **No Backend Required** – Purely client-side functionality  
+🔹 **Deployment** – GitHub Pages
 
 ## 🚀 Getting Started  
 
